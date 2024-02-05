@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": "Greg Norman",
+        "title": "Israel Defense Forces near ‘full operational control’ of the northern Gaza Strip, officials say - Fox News",
+        "description": "Israeli military forces have almost reached full operational control of northern Gaza and are preparing to expand south, officials say. Israeli troops also have been engaging in ground operations in Khan Younis, the second largest city in the Gaza Strip.",
+        "url": "https://www.foxnews.com/live-news/december-23-israel-hamas-war",
+        "urlToImage": "https://livenews.foxnews.com/images/2023/12/a0fc6f22ae863175cc08c29202229caa.png",
+        "publishedAt": "2023-12-23T13:56:36Z",
+        "content": "A fiery article in the revolutionary newspaper of the supreme leader of the Islamic Republic of Iran\r\n earlier this month threatened the U.S. and its assets, as well as its allies, in the Middle East… [+2257 chars]"
+      },
+      {
+        "source": {
+          "id": "politico",
+          "name": "Politico"
+        },
+        "author": null,
+        "title": "Israeli strike kills 76 members of one Gaza family, rescue officials say as combat expands in south - POLITICO",
+        "description": "The strike on a building in Gaza City was among the deadliest of the Israel-Hamas war, now in its 12th week.",
+        "url": "https://www.politico.com/news/2023/12/23/israeli-strike-kills-76-members-of-one-gaza-family-rescue-officials-say-as-combat-expands-in-south-00133158",
+        "urlToImage": "https://static.politico.com/e7/0a/6a7c9f964146a340e2d32fc0720c/israel-palestinians-54431.jpg",
+        "publishedAt": "2023-12-23T12:50:57Z",
+        "content": "The loss of Issam and his family has deeply affected us all. The U.N. and civilians in Gaza are not a target, said Achim Steiner, the head of the agency. This war must end.\r\nIsrael declared war after… [+4927 chars]"
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "EDITH M. LEDERER",
+        "title": "UN approves watered-down resolution on aid to Gaza without call for suspension of hostilities - The Associated Press",
+        "description": "The U.N. Security Council has adopted a watered-down resolution calling for immediate speeded-up aid deliveries to hungry and desperate civilians in Gaza — but without the original call for an “urgent suspension of hostilities” between Israel and Hamas. Frida…",
+        "url": "https://apnews.com/article/un-resolution-gaza-aid-palestinians-israel-a5bb32fb9f071689d231533a26beb838",
+        "urlToImage": "https://dims.apnews.com/dims4/default/6d68e82/2147483647/strip/true/crop/3282x1846+0+171/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7a%2F6c%2F04c3691b8e28b56f3b6d7aedfa9b%2F941881916081408698f98d5ed4ed92f3",
+        "publishedAt": "2023-12-23T01:20:00Z",
+        "content": "UNITED NATIONS (AP) The U.N. Security Council adopted a watered-down resolution Friday calling for immediately speeding aid deliveries to hungry and desperate civilians in Gaza but without the origin… [+8083 chars]"
+      }
+    ]
+  }
